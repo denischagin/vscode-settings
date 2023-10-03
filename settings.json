@@ -42,6 +42,7 @@
   "prettier.trailingComma": "all",
   "projectManager.git.baseFolders": ["$home/workspace"],
   "projectManager.sortList": "Recent",
+  // FILE TREE
   "sortJSON.orderOverride": [
     "name",
     "version",
@@ -64,10 +65,9 @@
     "peerDependencies",
     "cSpell.userWords"
   ],
-  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "update.showReleaseNotes": false,
-  "vim.foldfix": true,
   "vim.highlightedyank.color": "rgba(230, 97, 89, 0.7)",
   "vim.highlightedyank.enable": true,
   "vim.highlightedyank.textColor": "white",
